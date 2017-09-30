@@ -1,0 +1,47 @@
+	html, body{
+
+		font-family: helvetica;
+	}
+
+	header{
+		background-color: #FFCCBC;
+		padding: 10px 20px 1px 20px ;
+		text-align: center;
+		
+	}
+
+	h1{
+		
+			font-size: 60px;
+			color: #D84315;
+		}
+
+	header img{
+
+		border-radius: 1000px;
+		border: 5px solid #D84315;
+		
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<header> 
+		<img src="img/profile.jpg" style="width: 10%">
+		<h1>Super Mario</h1>
+	</header>+/
+
